@@ -5,6 +5,11 @@ body {
 #bodyLogin {
     background: rgb(80,9,121);
     background: linear-gradient(90deg, rgba(80,9,121,1) 35%, rgba(0,212,255,1) 100%);
+		left:50%;
+		top:50%;
+		margin-left:20px;
+		margin-top:200px;
+
 }
 #menu{
     width: 100%;
@@ -44,8 +49,44 @@ body {
     text-align: center;
     
 }
-#card-content-area{
+.card-content-area{
     color: black;
     width: 100%;
-    height: 800px;
+    
+    
+   
+    
 }
+.card-header img {
+    height: 140px;
+    
+}
+#bodycontato {
+    background: rgb(80,9,121);
+    background: linear-gradient(90deg, rgba(80,9,121,1) 35%, rgba(0,212,255,1) 100%);
+		left:50%;
+		top:50%;
+		margin-left:20px;
+		margin-top:200px;
+        text-align: center;
+        
+
+   
+   
+}
+.Mensagem{
+    width:200px;
+    height:200px;
+    border:2px solid black;
+    padding:10px;
+    text-align: center;
+    
+
+}
+.Start{
+    border:2px solid black;
+}
+
+
+
+
